@@ -159,7 +159,7 @@ function Isaac.GetItemIdByName(itemName)
 end
 
 ---@param musicName string
----@return Music
+---@return integer @default: -1
 function Isaac.GetMusicIdByName(musicName)
 end
 
